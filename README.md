@@ -5,11 +5,11 @@ _Computación Gráfica_
 
 _Integrantes:_
 
-- Jairo Muñoz Miranda
-- Jose Condori Condori
-- Jhon Mark León Cruz
-- Guadalupe Katherin Lopez Leiva
-- Jonathan Bustinza Mendoza
+- Jairo Muñoz Miranda.
+- Jose Condori Condori.
+- Jhon Mark León Cruz.
+- Guadalupe Katherin Lopez Leiva.
+- Jonathan Bustinza Mendoza.
 
 ## Installation
 
