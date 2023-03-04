@@ -1,19 +1,41 @@
-## Videojuego 3D en el recojo de residuos sólidos en el Santuario Nacional de Ampay
-_Computación Gráfica_
+# PROYECTO VIDEOJUEGO 3D
+###Título del proyecto:
+- DESARROLLO DE UN VIDEOJUEGO 3D EN EL RECOJO DE RESIDUOS SÓLIDOS EN EL SANTUARIO NACIONAL DEL AMPAY
+###Asignatura: 
+- Computación Gráfica
+###Integrantes: 
+- Jairo Muñoz Miranda
+- Jose Condori Condori
+- Jonathan Bustinza Mendoza
+- Guadalupe Katherin Lopez Leiva
+- Jhon Mark León Cruz
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+### Vizualisación del videojuego 3D
+> Vista del menú del videojuego.
 
-_Integrantes:_
+![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/1.png)
 
-- Jairo Muñoz Miranda.
-- Jose Condori Condori.
-- Jhon Mark León Cruz.
-- Guadalupe Katherin Lopez Leiva.
-- Jonathan Bustinza Mendoza.
+> Vista del el grupo de trabajo.
 
-## Installation
+![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/2.png)
+
+> Vista del videojuego en la laguna Uspaccocha - Ampay.
+
+![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/3.png)
+
+> Vista del videojuego en la laguna Uspaccocha - Ampay.
+
+![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/4.png)
+
+> Vista del los residuos sólidos en el Ampay.
+
+![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/5.png)
+
+**Tabla de contenidos**
+
+[TOCM]
+
+[TOC]
 
 
-```sh
-Hola Mundo
-```
+###End
