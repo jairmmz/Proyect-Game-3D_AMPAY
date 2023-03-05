@@ -1,9 +1,9 @@
 # PROYECTO VIDEOJUEGO 3D
-###Título del proyecto:
+### Título del proyecto:
 - DESARROLLO DE UN VIDEOJUEGO 3D EN EL RECOJO DE RESIDUOS SÓLIDOS EN EL SANTUARIO NACIONAL DEL AMPAY
-###Asignatura: 
+### Asignatura: 
 - Computación Gráfica
-###Integrantes: 
+### Integrantes: 
 - Jairo Muñoz Miranda
 - Jose Condori Condori
 - Jonathan Bustinza Mendoza
@@ -31,11 +31,8 @@
 
 ![](https://media.githubusercontent.com/media/jairmmz/Proyect-Game-3D_AMPAY/master/capturas_juego_ampay/5.png)
 
-**Tabla de contenidos**
-
-[TOCM]
-
-[TOC]
+### Link de descarga del ejecutable del videojuego
+> [Links](https://drive.google.com/file/d/147ajl24-wAIjGsX6bAUw76f1crrNKQ3L/view?usp=share_link)
 
 
 ###End
